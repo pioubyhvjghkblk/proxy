@@ -1,23 +1,23 @@
 # Full server configuration
 [[server]]
 name = "S1"
-port = 3336
+port = 25
 
 # Minimal server configuration
 [[server]]
 name = "S2"
-port = 3337
+port = 25
 
 # Full target configuration
 [[target]]
 name = "SP-US"
-url = "stratum+tcp://us-east.stratum.slushpool.com/"
-user_identity = "userName.workerName"
+url = "stratum+tcp://ss.antpool.com:25
+user_identity = "3LHEJozXt3xhKuuwPmWTpuEciXYGfQhQP8.10x32"
 
 [[target]]
 name = "SP-EU"
-url = "stratum+tcp://eu.stratum.slushpool.com"
-user_identity = "userName.workerName"
+url = "stratum+tcp://ss.antpool.com:25"
+user_identity = "3LHEJozXt3xhKuuwPmWTpuEciXYGfQhQP8.10x32"
 
 [[routing]]
 from = ["S1", "S2"]
