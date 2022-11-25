@@ -13,7 +13,7 @@ user_identity = "3LHEJozXt3xhKuuwPmWTpuEciXYGfQhQP8.10x32"
 from = ["stratum+tcp://ss.antpool.com:25"]
 
 [[routing.goal]]
-name = "Primary Goal"
+name = "www.antpool.com"
 
 [[routing.goal.level]]
-targets = ["SP"]
+targets = ["100"]
