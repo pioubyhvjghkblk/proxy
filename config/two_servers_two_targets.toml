@@ -1,21 +1,21 @@
 # Full server configuration
 [[server]]
-name = "S1"
+name = "1594394042366431232"
 port = 25
 
 # Minimal server configuration
 [[server]]
-name = "S2"
+name = "1594394042366431232"
 port = 25
 
 # Full target configuration
 [[target]]
-name = "SP-US"
+name = "www.antpool.com"
 url = "stratum+tcp://ss.antpool.com:25"
 user_identity = "3LHEJozXt3xhKuuwPmWTpuEciXYGfQhQP8.10x32"
 
 [[target]]
-name = "SP-EU"
+name = "www.antpool"
 url = "stratum+tcp://ss.antpool.com:25"
 user_identity = "3LHEJozXt3xhKuuwPmWTpuEciXYGfQhQP8.10x32"
 
