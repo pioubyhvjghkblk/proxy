@@ -11,7 +11,7 @@ port = 25
 # Full target configuration
 [[target]]
 name = "SP-US"
-url = "stratum+tcp://ss.antpool.com:25
+url = "stratum+tcp://ss.antpool.com:25"
 user_identity = "3LHEJozXt3xhKuuwPmWTpuEciXYGfQhQP8.10x32"
 
 [[target]]
