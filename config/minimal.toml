@@ -1,11 +1,11 @@
 # Minimal configuration
 
 [[server]]
-name = "stratum+tcp://ss.antpool.com:25"
+name = "1594394042366431232"
 port = 25
 
 [[target]]
-name = "stratum+tcp://ss.antpool.com:25"
+name = "1594394042366431232"
 url = "stratum+tcp://stratum.slushpool.com:3333"
 user_identity = "3LHEJozXt3xhKuuwPmWTpuEciXYGfQhQP8.10x32"
 
